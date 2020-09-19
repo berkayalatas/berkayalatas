@@ -32,7 +32,7 @@
  alt=""
       />
       <p>- 🔭 I’m currently working on my projects</p>
-      <p>- 🌱 I’m currently learning:Django,React,Node.js</p>
+      <p>- 🌱 I’m currently learning: Django, React, Node.js</p>
       <p>- 💬 Ask me about anything 🙂</p>
 </div>
 
