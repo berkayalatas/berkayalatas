@@ -18,7 +18,7 @@
        <h2>💻Skills:</h2>
         ➡️HTML <br /><br />
         ➡️CSS, Bootstrap <br /><br />
-        ➡️JS , Jquery <br /><br />
+        ➡️Javascript , Jquery <br /><br />
         ➡️PYTHON, Django
  </div>
  <br /><br />
