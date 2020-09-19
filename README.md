@@ -7,8 +7,8 @@
       />
       <h2>Developer/Designer</h2>
       <p>
-        I'm Berkay from Turkey, and I am a 3rd year computer science student. I
-        really enjoy learning new languages, libraries and frameworks, also
+        I'm Berkay from Turkey and I am a 3rd year computer science student. I
+        really enjoy learning new languages, libraries and frameworks also
         enjoy ui, ux, and design in general.
       </p>
 </header>
