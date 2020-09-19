@@ -1,7 +1,7 @@
   <header>
       <h1>Hi there 👋, I'm Berkay</h1>
       <img
-        style="width: 350px; height: 400px"
+        style="width: 300px;"
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"
         alt=""
       />
