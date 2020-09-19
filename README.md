@@ -1,7 +1,13 @@
-### Hi there 👋
 
+### Hi there 👋,I'm Berkay Alatas
+I'm Berkay from Turkey, and I am a 3rd year computer science student. I really enjoy learning new languages, libraries and frameworks, also enjoy  ui, ux, and design in general.
 
-Here are some ideas to get you started:
+##Skills💻
+/HTML
+/CSS , Bootstrap
+/JS , Jquery
+/PYTHON , Django
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
