@@ -25,7 +25,7 @@
 </section>
 
 
- <div style="display: block">
+ <div>
  <img style="float: left; margin:10px"
  style="width: 150px"
  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
@@ -34,7 +34,6 @@
       <p>- 🔭 I’m currently working on my projects</p>
       <p>- 🌱 I’m currently learning:Django,React,Node.js</p>
       <p>- 💬 Ask me about anything :)</p>
-      <br><br><br><br><br><br><br><br><br><br>
 </div>
 
 
