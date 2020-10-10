@@ -1,8 +1,8 @@
   <header>
       <h1>Hi there 👋, I'm Berkay</h1>
       <img
-        style="width: 200px;"
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"
+        style="width: 200px; height:200px;"
         alt=""
       />
       <h2>Developer/Designer</h2>
