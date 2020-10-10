@@ -5,7 +5,7 @@
         style="width: 100px; height:100px;"
         alt=""
       />
-      <h2>Developer/Designer</h2>
+      <h2 style"color: #01c2c2;">Developer/Designer</h2>
       <p>
         I'm Berkay from Turkey and I am a 3rd year computer science student. I
         really enjoy learning new languages, libraries and frameworks also
