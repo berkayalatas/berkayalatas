@@ -42,8 +42,8 @@
       />
       <p>- 🔭 I’m currently working on my projects</p>
       <p>- 🌱 I’m currently learning: React, Node.js  <br/> 
-<img align="left"  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></p>  <br/> 
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></p>  <br/> 
       <p>- 💬 Ask me about anything 🙂</p>
 
 </div>
