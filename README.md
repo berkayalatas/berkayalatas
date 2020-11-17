@@ -1,6 +1,6 @@
   <header>
       <h1>Hi there 👋, I'm Berkay</h1>
-      <img align="right" width="40%" height="110%"
+      <img align="right" width="40%"   height:"600px" 
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"       
         alt=""
       />
