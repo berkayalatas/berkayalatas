@@ -25,7 +25,7 @@
 
 
  <div>
- <img align="rihjt" width="30%" 
+ <img align="right" width="30%" 
  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
  alt=""
       />
