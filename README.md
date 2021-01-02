@@ -4,7 +4,7 @@
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"       
         alt=""
       />
-      <h2 style"color: #01c2c2;">Developer/Designer</h2>
+      <h3 style"color: #01c2c2;">Web Developer</h3>
       <p>
        I'm Berkay from Turkey and I am a 3rd-year computer science student. I enjoy developing web applications and design. 
         I also like learning new languages, libraries, and frameworks in general.
