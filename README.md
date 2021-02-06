@@ -45,7 +45,7 @@
 
  <br/> <br/> <br />
  <div>
- <img align="right" width="300" 
+ <img align="right" width="400" 
  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
  alt="Gif"/>
       <p>- 🔭 I’m currently working on my projects</p>
