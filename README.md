@@ -14,11 +14,8 @@
 <section>
 
   ## 💻Skills
-        ➡️HTML <br /><br />
-        ➡️CSS, Bootstrap <br /><br />
-        ➡️Javascript , Jquery <br /><br />
-        ➡️PYTHON, Django <br /><br />
-        ➡️PHP, Laravel <br /><br />
+
+        
 <img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/19311256/89726916-be5f5380-da3d-11ea-9fa1-108cc23b3945.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
