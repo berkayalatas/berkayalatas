@@ -1,6 +1,6 @@
   <header>
       <h1>Hi there 👋</h1>
-      <img align="right" width="50%"  
+      <img align="right" width="450"  
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"       
         alt=""
       />
@@ -45,7 +45,7 @@
 
  <br/> <br/> <br />
  <div>
- <img align="right" width="200" 
+ <img align="right" width="300" 
  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
  alt="Gif"/>
       <p>- 🔭 I’m currently working on my projects</p>
@@ -54,11 +54,10 @@
 
 </div>
 
-<br/> <br/> <br/> <br/> 
+<br/> <br/> <br/> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkayalatas" alt="berkayalatas" /></a> </p>
 
-<br/>
 
 ## 📍 Find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berkayalatas) [<img src='https://img.icons8.com/fluent/50/000000/gmail--v2.png' alt='gmail' height='40'>](mailto:berkay.3304@gmail.com)
