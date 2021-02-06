@@ -45,10 +45,9 @@
 
  <br/> <br/> <br />
  <div>
- <img align="right" width="40%" 
+ <img align="right" width="200" 
  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
- alt=""
-      />
+ alt="Gif"/>
       <p>- 🔭 I’m currently working on my projects</p>
       <p>- 🌱 I’m currently learning:Node.js  <br/> 
      <p>- 💬 Ask me about anything 🙂</p>
@@ -59,7 +58,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkayalatas" alt="berkayalatas" /></a> </p>
 
-<br/> <br/>
+<br/>
 
 ## 📍 Find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berkayalatas) [<img src='https://img.icons8.com/fluent/50/000000/gmail--v2.png' alt='gmail' height='40'>](mailto:berkay.3304@gmail.com)
