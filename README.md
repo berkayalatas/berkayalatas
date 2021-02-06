@@ -4,7 +4,7 @@
         src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif"       
         alt=""
       />
-      <h3 style"color: #01c2c2;">Web Developer</h3>
+      <h3>Web Developer</h3>
       <p>
        I'm Berkay from Turkey and I am a 3rd-year computer science student. I enjoy developing web applications and design. 
         I also like learning new languages, libraries, and frameworks in general.
@@ -12,8 +12,8 @@
 </header>
 
 <section>
- <div>
-       <h2>💻Skills:</h2>
+
+  ## 💻Skills
         ➡️HTML <br /><br />
         ➡️CSS, Bootstrap <br /><br />
         ➡️Javascript , Jquery <br /><br />
@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- </div>
+
  <br /><br />
 </section>
 
