@@ -53,6 +53,6 @@
 
 ## 📍 Find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berkayalatas)
-[<img src='https://img.icons8.com/fluent/100/000000/linkedin.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/berkay-alatas-5966831a7/) 
+[<img src='https://img.icons8.com/fluent/120/000000/linkedin.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/berkay-alatas-5966831a7/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Personal Website' height='40'>](http://berkay.engineer) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/berkayalatas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/berkayalatas) [<img src='https://images.g2crowd.com/uploads/product/hd_favicon/20525112e5ad58ebca7beda36a6e3942/codesignal.svg' alt='codesignal' height='40'>](https://app.codesignal.com/profile/berkay33) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/berkayalatas1)  
 
