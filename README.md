@@ -6,8 +6,8 @@
       />
       <h3>Web Developer</h3>
       <p>
-       I'm Berkay from Turkey and I am a 3rd-year computer science student. I enjoy developing web applications and design. 
-        I also like learning new languages, libraries, and frameworks in general.
+        I'm Berkay from Turkey and I am a computer science student. I enjoy developing web applications and design.  
+        Also, I am trying to improve my current skills and learning new technologies in general.
       </p>
 </header>
 
